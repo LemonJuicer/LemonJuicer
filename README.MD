@@ -23,5 +23,5 @@
 
 ### My GitHub stats:
 
-<img align="left" alt="LemonJuicer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LemonJuicer&show_icons=true&hide_border=true&theme=buefy" />
-<img align="left" alt="LemonJuicer's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonJuicer&theme=buefy" />
+<img align="left" alt="LemonJuicer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LemonJuicer&show_icons=true&theme=buefy" />
+<img align="left" alt="LemonJuicer's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonJuicer&show_icons=true&theme=buefy" />
