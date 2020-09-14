@@ -1,11 +1,10 @@
+[//]: # (- 👯 I’m looking to collaborate with other content creators)
+
 # Hi there, I'm LemonJuicer
 
 ## I'm a Frontend developer!
 - 🔭 I’m currently working on a big discord bot!
 - 🌱 I’m currently learning Bootstrap 4.5
-
-[//]: # (- 👯 I’m looking to collaborate with other content creators)
-
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools i use:
