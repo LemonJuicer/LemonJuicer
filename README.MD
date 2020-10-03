@@ -4,7 +4,7 @@
 
 ## I'm a Frontend developer!
 - 🔭 I’m currently working on a big discord bot!
-- 🌱 I’m currently learning Bootstrap 4.5
+- 🌱 I’m currently learning MongoDB
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools i use:
