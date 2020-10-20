@@ -3,8 +3,8 @@
 # Hi there, I'm LemonJuicer
 
 ## I'm a Frontend developer!
-- 🔭 I’m currently working on a big discord bot!
-- 🌱 I’m currently learning MongoDB
+- 🔭 I’m currently working on website
+- 🌱 I’m currently learning React.js
 - 🥅 2020 Goals: More commits
 
 ### Languages and Tools i use:
